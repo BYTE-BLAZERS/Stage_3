@@ -6,8 +6,8 @@ Stage - 3
 Analisis dan kesimpulan hasil evaluasi metrics recall Model:
 
 Random Forest:
->● Recall : 0.52
->● Dengan penanganan class imbalance, terjadi peningkatan
+> ● Recall : 0.52
+> ● Dengan penanganan class imbalance, terjadi peningkatan
 signifikan pada recall dari model ini. Penanganan class
 imbalance dapat membantu model untuk lebih baik dalam
 mengidentifikasi kasus positif.
