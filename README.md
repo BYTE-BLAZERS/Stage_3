@@ -14,19 +14,22 @@ imbalance dapat membantu model untuk lebih baik dalam
 mengidentifikasi kasus positif.
 
 Logistic Regression:
-● Recall: 0.38
-● Model ini menunjukkan bahwa penanganan class imbalance
+> ● Recall: 0.38
+> 
+> ● Model ini menunjukkan bahwa penanganan class imbalance
 tidak memberikan dampak yang signifikan pada kemampuan
 model untuk mengidentifikasi kasus positif.
 
 Decision Tree:
-● Recall: 0.41
-● Penanganan class imbalance tidak menghasilkan perubahan
+> ● Recall: 0.41
+> 
+> ● Penanganan class imbalance tidak menghasilkan perubahan
 yang signifikan dalam recall model Decision Tree.
 
 Gradient Boosting:
-● Recall: 0.49
-● Model ini menunjukkan hasil yang stabil, tanpa perubahan
+> ● Recall: 0.49
+> 
+> ● Model ini menunjukkan hasil yang stabil, tanpa perubahan
 yang signifikan setelah penanganan class imbalance. Recall
 yang relatif tinggi menunjukkan bahwa model ini mungkin
 sudah cukup baik dalam mengidentifikasi kasus positif.
