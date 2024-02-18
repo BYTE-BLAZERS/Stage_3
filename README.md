@@ -3,7 +3,7 @@ Final Project Kelompok 4
 
 Stage - 3
 **Summary**
-Analisis dan kesimpulan hasil evaluasi metrics recall Model:
+> Analisis dan kesimpulan hasil evaluasi metrics recall Model:
 
 Random Forest:
 > ● Recall : 0.52
